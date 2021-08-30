@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+    app:
+        build: .
+        volumes:
+            - ./output_pdfs:/app/output_pdfs
+            - ./input_pdfs:/app/input_pdfs
+            - ./src:/app/src
+        command: python src/pdf_splitter.py --use-lstm --tessdata-dir tessdata/tessdata_best-4.1.0/
+    

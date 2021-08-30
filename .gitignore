@@ -1,0 +1,8 @@
+input_pdfs/**
+output_pdfs/**
+!**.gitkeep
+
+images_with_bounding_boxes
+venv
+tmp
+tessdata

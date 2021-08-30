@@ -1,0 +1,4 @@
+PyPDF2==1.26.0
+# opencv-python==4.3.0.38
+# pytesseract==0.3.4
+sheatless==0.0.10
