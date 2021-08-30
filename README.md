@@ -1,6 +1,6 @@
 # Hva er sheatless-splitter?
 
-Sheatless-splitter er et python-script for å splitte note-PDFer baser på [sheatless](https://pypi.org/project/sheatless/). Den tar inn PDFer med noter, der flere enkeltstemmer er i samme PDF og splitter dem i en PDF per stemme.
+Sheatless-splitter er et python-script for å splitte note-PDFer basert på [sheatless](https://pypi.org/project/sheatless/). Den tar inn PDFer med noter, der flere enkeltstemmer er i samme PDF og splitter dem i en PDF per stemme.
 
 # Hvordan bruke sheatless-splitter?
 
